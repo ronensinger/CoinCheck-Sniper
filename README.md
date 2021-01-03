@@ -1,3 +1,5 @@
+Copyright Ronen Singer, All Rights Reserved
+
 # CoinCheck Sniper
 
 This repository contains the two algorithms I used to make-markets on a Japanese Bitcoin Exchange called CoinCheck.
